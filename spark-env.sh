@@ -68,6 +68,6 @@
 # - SPARK_IDENT_STRING  A string representing this instance of spark. (Default: $USER)
 # - SPARK_NICENESS      The scheduling priority for daemons. (Default: 0)
 
-#Adding additional memory for Ignite
+#Adding additional memory for Apache Ignite
 
 export SPARK_JAVA_OPTS="-Dspark.executor.memory=8g"
