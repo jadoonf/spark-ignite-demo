@@ -71,3 +71,5 @@
 #Adding additional memory for Apache Ignite
 
 export SPARK_JAVA_OPTS="-Dspark.executor.memory=8g"
+
+export ZEPPELIN_PORT=9090
