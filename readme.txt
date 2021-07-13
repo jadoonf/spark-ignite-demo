@@ -98,3 +98,5 @@ WHERE p.orgId = o.id
 AND p.managerId = m.id
 GROUP BY  o.name, m.name
 LIMIT 100
+
+AWS_KEY_FAKE = AKIAIOSFODNN7EXAMPLE
