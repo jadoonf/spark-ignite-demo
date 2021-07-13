@@ -63,3 +63,4 @@ public class Query {
         }
     }
 }
+AWS_KEY_TEST = AKIAIOSFODNN7EXAMPLEFAKE
